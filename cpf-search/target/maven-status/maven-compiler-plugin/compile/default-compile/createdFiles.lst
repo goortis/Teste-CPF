@@ -1,0 +1,5 @@
+com\goortis\cpfsearch\config\Security.class
+com\goortis\cpfsearch\CpfSearchApplication.class
+com\goortis\cpfsearch\repository\CpfRepository.class
+com\goortis\cpfsearch\model\CpfModel.class
+com\goortis\cpfsearch\controller\CpfController.class
